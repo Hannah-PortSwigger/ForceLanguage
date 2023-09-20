@@ -8,4 +8,4 @@ This extension, compatible with Burp Suite Enterprise Edition, replaces the body
 - [Load extension into Enterprise](https://portswigger.net/burp/documentation/enterprise/bapps-and-custom-extensions/adding-extensions#adding-a-custom-extension-to-burp-suite-enterprise-edition)
 - [Apply to the relevant site](https://portswigger.net/burp/documentation/enterprise/bapps-and-custom-extensions/scanning-with-extensions)
 
-It is recommended that you test this extension prior to use in Burp Suite Professional.
+You should test whether this extension is fit for purpose in Burp Suite Professional before use in Burp Suite Enterprise Edition.
